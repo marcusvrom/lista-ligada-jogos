@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\vinic\Documents\projetosGit\listaJogos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2284532566.index
+3511579862.index
